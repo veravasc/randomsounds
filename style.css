@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-family: arial;
+    color: white;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+
+#audioplayer {
+    margin-left: 10%;
+    margin-top: 12%;
+}
